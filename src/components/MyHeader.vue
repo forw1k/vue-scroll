@@ -27,7 +27,7 @@ export default {
       isShowNavbar: true,
       lastScrollPosition: 0,
       scrollValue: 0,
-      offset: 20,
+      offset: 5,
     };
   },
   methods: {
